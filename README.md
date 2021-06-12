@@ -1,17 +1,17 @@
 # rwdcoursework01
 JS coursework 01
 
-//if else statement
+(//if else statement
 
 var age = 15;
          
- if( age > 18 ) {
+if( age > 18 ) {
       document.write("<b>Accessed for driving</b>");
                 } else 
                 {
      document.write("<b>Denied for driving</b>");
                 }
---------------------------------
+--------------------------------)
  
  //switch statement
  
